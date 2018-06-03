@@ -1,1 +1,3 @@
-# Hamster2
+# Hamster2 - Pablo Bonilla
+
+##TravisCi
