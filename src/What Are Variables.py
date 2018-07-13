@@ -1,4 +1,4 @@
-import pandas as pd
+
 print ("Hola mundo")
 a: int=1
 b: int=2
